@@ -9,5 +9,6 @@ h1, h2 {
 }
 
 .profile {
-    float: right;
+    float: left;
+    height: 100px;
 }
