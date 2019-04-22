@@ -1,2 +1,3 @@
-# about-us
-web site about us
+# About Us
+
+Web site about us using HTML and CSS
