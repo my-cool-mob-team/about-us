@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo|Oswald');
+
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Oswald';
+}
+
+.profile {
+    float: right;
+}
